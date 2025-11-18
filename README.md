@@ -36,7 +36,7 @@ A robust full-stack web application designed to manage daily tasks efficiently. 
 
 ## 📸 Screenshots
 
-https://github.com/user-attachments/assets/87023734-fb80-4354-8b16-42c46b0d6ea9
+<img width="1914" height="999" alt="Image" src="https://github.com/user-attachments/assets/87023734-fb80-4354-8b16-42c46b0d6ea9">
 
 ---
 

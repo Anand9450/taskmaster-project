@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // This points to your running Spring Boot backend
-const API_URL = 'https://taskmaster-backend-fgqk.onrender.com';
+const API_URL = 'https://taskmaster-backend-fgqk.onrender.com/api/tasks';
 
 // Get all tasks
 export const getTasks = () => axios.get(API_URL);

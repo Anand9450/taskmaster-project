@@ -12,4 +12,4 @@ RUN chmod +x mvnw
 RUN ./mvnw clean package -DskipTests
 
 # Run the app (I changed the name to *.jar to automatically find whatever your app is named)
-ENTRYPOINT ["java", "-jar", "target/*.jar"]
+ENTRYPOINT ["sh", "-c", "java -jar target/*.jar"]

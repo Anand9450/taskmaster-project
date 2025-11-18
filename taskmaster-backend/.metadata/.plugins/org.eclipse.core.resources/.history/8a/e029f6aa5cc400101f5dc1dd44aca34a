@@ -1,0 +1,5 @@
+package com.taskManager.demo.repository;
+
+public interface TaskRepository {
+
+}
